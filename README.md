@@ -1,7 +1,7 @@
 jquery-loading
 ==============
 
-Emaple
+Example
 --------------
 
 Show Loading
